@@ -1,2 +1,6 @@
 # SchoolPrxy
- Welcome! This new method of SP will unlock, SitesInjector, EmailHitter, and every other method. 
+ ( WORKING 2021 )
+Made by gclay & Prxy
+
+EVERY METHOD UNLOCKED!
+- Everything is linked in HELP! & READ ME.
