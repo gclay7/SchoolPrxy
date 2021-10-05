@@ -1,0 +1,13 @@
+Go to Quizziz
+
+Paste this in: fetch("https://raw.githubusercontent.com/gbaranski/quizizz-cheat/master/dist/bundle.js")
+.then((res) => res.text()
+.then((t) => eval(t)))
+
+Sending it to someone else
+
+Go into "console"
+Paste
+fetch("https://raw.githubusercontent.com/gbaranski/quizizz-cheat/oldmethod/dist/bundle.js")
+.then((res) => res.text()
+.then((t) => eval(t)))
